@@ -7,7 +7,7 @@
 4. Most of the guests arrived in the month of "August" and minimum in the month of "January".
 5. 28.21% of total bookings were for 2 nights only(week)
 6. Maximum % of all bookers preferred Bed & Breakfast meal
-7. Maximum % bookers were from Portugal country
+7. Maximum % bookers were from Portugal country(PRT)
 8. % of repeated guest were very less but the repeated guests were from corporate sector.
 9. Year 2015 had max previous cancellations.
 10. There were 10 different type of reserve rooms and most of the bookers perferred A type rooms and least were P type rooms.
