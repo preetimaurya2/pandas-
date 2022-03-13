@@ -10,7 +10,7 @@
 7. Maximum % bookers were from Portugal country(PRT)
 8. % of repeated guest were very less but the repeated guests were from corporate sector.
 9. Year 2015 had max previous cancellations.
-10. There were 10 different type of reserve rooms and most of the bookers perferred A type rooms and least were P type rooms.
+10. There were 10 different types of reserve rooms and most of the bookers perferred A type rooms and least were P type rooms.
 11. Most of the bookings were of non deposit type.
 12. Maximum % of bookers were Transient type customers.
 13. Most of bookings were from Online TA
