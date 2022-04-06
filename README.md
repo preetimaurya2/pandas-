@@ -1,4 +1,4 @@
-**DATA ANALYZE ON HOTELBOOKING**
+**HOTELBOOKING DATA ANALYSIS AND DATA VISUALIZATION**
 
 **SUMMARY**
 1. 66.44% of total bookings were in City hotel and 33.55% in Resort hotel
@@ -14,3 +14,17 @@
 11. Most of the bookings were of non deposit type.
 12. Maximum % of bookers were Transient type customers.
 13. Most of bookings were from Online TA
+
+**AIRLINES DATA ANALYSIS AND VISUALIZATION**
+
+**SUMMARY**
+1. There were total 12 airlines in which "Jet Airways Airlines" had the highest number of flights whereas "Trujet Airlines" had the lowest number of flights.
+2. 42.46% (max)of all flights take off from "Delhi" and 3.56%(min) take off from "chennai"
+3. 42.47% (max) of all flights destination was "Cochin" where "kolkata" had min%(3.57%) of landed flights.
+4. Most of the flights departed at "6:55 pm" 
+5. "7:00pm" had the highest frequency of the flights arrival.
+6. The duration of most of the flights were "2h 50m"
+7. Most of the flight were 1 stop flights 
+8. 18.55% of all flights did not include IN FLIGHTS MEALS.
+9. 2.99% of total flights did not include CHECK IN BAGGAGE
+10. The "Jet Airways Airline" that had the most expensive fare(Rs. 79512) and that flight headed from "Banglore to Mumbai to New Delhi" whereas the "SpiceJet Airlines" that had cheapest fare(1759) and that flights headed from "Mumbai to Hyderabad".
